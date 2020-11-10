@@ -1,18 +1,15 @@
-### Hi there 👋
+<table style="rules:none">
+<tr>
+<td>
+ 
+ <img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSantosCoelho&hide_border=true&show_icons=true&theme=dark&locale=en%22/%3E
 
-! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & theme = dark & ​​show_icons = true )
+</td>
 
-<!--
-**GuilhermeSantosCoelho/GuilhermeSantosCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<td>
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantosCoelho&layout=compact&theme=dark&hide_border=true%22/%3E
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+</tr>
+</table>
